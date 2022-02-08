@@ -1,0 +1,80 @@
+{
+  "name": {
+    "name": "UNCC",
+    "value": 486,
+    "type": "faculty",
+    "children": [
+      {
+        "name": "Belk College of Business",
+        "value": 163,
+        "type": "faculty",
+        "children": [
+          {
+            "name": "Business",
+            "value": 58,
+            "type": "faculty",
+            "children": [
+              {
+                "Name": "Bojan Cukic",
+                "Link": "http://test.uncc.edu",
+                "type": "publications",
+                "value": 29
+              },
+              {
+                "Name": "Test Name",
+                "Link": "http://test.uncc.edu",
+                "type": "publications",
+                "value": 12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Computer Science",
+        "value": 68,
+        "type": "faculty",
+        "children": [
+          {
+            "name": "Software Engineering",
+            "value": 128,
+            "type": "faculty",
+            "children": [
+              {
+                "Name": "Steve Nash",
+                "Link": "http://test.uncc.edu",
+                "type": "publications",
+                "value": 69
+              },
+              {
+                "Name": "Some Person",
+                "Link": "http://test.uncc.edu",
+                "type": "publications",
+                "value": 13
+              }
+            ]
+          },
+          {
+            "name": "SWE",
+            "value": 74,
+            "type": "faculty",
+            "children": [
+              {
+                "name": "Micheal Jacques",
+                "Link": "http://test.uncc.edu",
+                "type": "publications",
+                "value": 29
+              },
+              {
+                "Name": "Other Guy",
+                "Link": "http://test.uncc.edu",
+                "type": "publications",
+                "value": 6
+              }
+            ],
+          }
+        ]
+      }
+    ]
+  }
+}
