@@ -11,16 +11,16 @@
           {
             "name": "Business",
             "value": 58,
-            "Faculty": [
+            "children2": [
               {
-                "Name": "Bojan Cukic",
+                "name": "Bojan Cukic",
                 "Link": "http://test.uncc.edu",
-                "Publications": 29
+                "value": 29
               },
               {
-                "Name": "Test Name",
+                "name": "Test Name",
                 "Link": "http://test.uncc.edu",
-                "Publications": 12
+                "value": 12
               }
             ],
             "children": [
@@ -44,16 +44,16 @@
           {
             "name": "Software Engineering",
             "value": 128,
-            "Faculty": [
+            "children2": [
               {
-                "Name": "Steve Nash",
+                "name": "Steve Nash",
                 "Link": "http://test.uncc.edu",
-                "Publications": 69
+                "value": 69
               },
               {
-                "Name": "Some Person",
+                "name": "Some Person",
                 "Link": "http://test.uncc.edu",
-                "Publications": 13
+                "value": 13
               }
             ],
             "children": [
@@ -70,16 +70,16 @@
           {
             "name": "SWE",
             "value": 74,
-            "Faculty": [
+            "children": [
               {
                 "name": "Micheal Jacques",
                 "Link": "http://test.uncc.edu",
-                "Publications": 29
+                "value": 29
               },
               {
-                "Name": "Other Guy",
+                "name": "Other Guy",
                 "Link": "http://test.uncc.edu",
-                "Publications": 6
+                "value": 6
               }
             ],
             "children": [
