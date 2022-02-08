@@ -1,0 +1,99 @@
+{
+  "UNCC": {
+    "Total Publications": 11324,
+    "Colleges": [
+      {
+        "College Name": "Belk College of Business",
+        "Faculty": 163,
+        "College Publications": 192,
+        "Department": [
+          {
+            "Name": "Business",
+            "Department Publications": 58,
+            "Faculty": [
+              {
+                "Name": "Bojan Cukic",
+                "Link": "http://test.uncc.edu",
+                "Publications": 29
+              },
+              {
+                "Name": "Test Name",
+                "Link": "http://test.uncc.edu",
+                "Publications": 12
+              }
+            ],
+            "Keywords": [
+              {
+                "Keyword": "Test",
+                "Publications": 31
+              },
+              {
+                "Keyword": "Popcorn",
+                "Publications": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "College Name": "Computer Science",
+        "Faculty": 68,
+        "College Publications": 324,
+        "Department": [
+          {
+            "Name": "Software Engineering",
+            "Department Publications": 128,
+            "Faculty": [
+              {
+                "Name": "Steve Nash",
+                "Link": "http://test.uncc.edu",
+                "Publications": 69
+              },
+              {
+                "Name": "Some Person",
+                "Link": "http://test.uncc.edu",
+                "Publications": 13
+              }
+            ],
+            "Keywords": [
+              {
+                "Keyword": "Okay",
+                "Publications": 51
+              },
+              {
+                "Keyword": "Yes",
+                "Publications": 34
+              }
+            ]
+          },
+          {
+            "Name": "SWE",
+            "Department Publications": 74,
+            "Faculty": [
+              {
+                "Name": "Micheal Jacques",
+                "Link": "http://test.uncc.edu",
+                "Publications": 29
+              },
+              {
+                "Name": "Other Guy",
+                "Link": "http://test.uncc.edu",
+                "Publications": 6
+              }
+            ],
+            "Keywords": [
+              {
+                "Keyword": "Wario",
+                "Publications": 9
+              },
+              {
+                "Keyword": "Mario",
+                "Publications": 21
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
