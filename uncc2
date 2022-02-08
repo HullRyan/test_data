@@ -1,0 +1,99 @@
+{
+  "UNCC": {
+    "value": 11324,
+    "children": [
+      {
+        "College Name": "Belk College of Business",
+        "Faculty": 163,
+        "value": 192,
+        "children": [
+          {
+            "Name": "Business",
+            "value": 58,
+            "Faculty": [
+              {
+                "Name": "Bojan Cukic",
+                "Link": "http://test.uncc.edu",
+                "Publications": 29
+              },
+              {
+                "Name": "Test Name",
+                "Link": "http://test.uncc.edu",
+                "Publications": 12
+              }
+            ],
+            "children": [
+              {
+                "Keyword": "Test",
+                "value": 31
+              },
+              {
+                "Keyword": "Popcorn",
+                "value": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "College Name": "Computer Science",
+        "Faculty": 68,
+        "value": 324,
+        "children": [
+          {
+            "Name": "Software Engineering",
+            "value": 128,
+            "Faculty": [
+              {
+                "Name": "Steve Nash",
+                "Link": "http://test.uncc.edu",
+                "Publications": 69
+              },
+              {
+                "Name": "Some Person",
+                "Link": "http://test.uncc.edu",
+                "Publications": 13
+              }
+            ],
+            "children": [
+              {
+                "Keyword": "Okay",
+                "value": 51
+              },
+              {
+                "Keyword": "Yes",
+                "value": 34
+              }
+            ]
+          },
+          {
+            "Name": "SWE",
+            "value": 74,
+            "Faculty": [
+              {
+                "Name": "Micheal Jacques",
+                "Link": "http://test.uncc.edu",
+                "Publications": 29
+              },
+              {
+                "Name": "Other Guy",
+                "Link": "http://test.uncc.edu",
+                "Publications": 6
+              }
+            ],
+            "children": [
+              {
+                "Keyword": "Wario",
+                "value": 9
+              },
+              {
+                "Keyword": "Mario",
+                "value": 21
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
