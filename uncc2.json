@@ -1,14 +1,14 @@
 {
-  "UNCC": {
+  "name": {
     "value": 11324,
     "children": [
       {
-        "College Name": "Belk College of Business",
+        "name": "Belk College of Business",
         "Faculty": 163,
         "value": 192,
         "children": [
           {
-            "Name": "Business",
+            "name": "Business",
             "value": 58,
             "Faculty": [
               {
@@ -24,11 +24,11 @@
             ],
             "children": [
               {
-                "Keyword": "Test",
+                "name": "Test",
                 "value": 31
               },
               {
-                "Keyword": "Popcorn",
+                "name": "Popcorn",
                 "value": 4
               }
             ]
@@ -36,12 +36,12 @@
         ]
       },
       {
-        "College Name": "Computer Science",
+        "name": "Computer Science",
         "Faculty": 68,
         "value": 324,
         "children": [
           {
-            "Name": "Software Engineering",
+            "name": "Software Engineering",
             "value": 128,
             "Faculty": [
               {
@@ -57,21 +57,21 @@
             ],
             "children": [
               {
-                "Keyword": "Okay",
+                "name": "Okay",
                 "value": 51
               },
               {
-                "Keyword": "Yes",
+                "name": "Yes",
                 "value": 34
               }
             ]
           },
           {
-            "Name": "SWE",
+            "name": "SWE",
             "value": 74,
             "Faculty": [
               {
-                "Name": "Micheal Jacques",
+                "name": "Micheal Jacques",
                 "Link": "http://test.uncc.edu",
                 "Publications": 29
               },
@@ -83,11 +83,11 @@
             ],
             "children": [
               {
-                "Keyword": "Wario",
+                "name": "Wario",
                 "value": 9
               },
               {
-                "Keyword": "Mario",
+                "name": "Mario",
                 "value": 21
               }
             ]
