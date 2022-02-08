@@ -1,17 +1,17 @@
 {
     "name": {
       "name": "UNCC",
-      "value": 486,
+      "value": 168,
       "type": "faculty",
       "children": [
         {
           "name": "Belk College of Business",
-          "value": 163,
+          "value": 41,
           "type": "faculty",
           "children": [
             {
               "name": "Business",
-              "value": 58,
+              "value": 41,
               "type": "faculty",
               "children": [
                 {
@@ -32,12 +32,12 @@
         },
         {
           "name": "Computer Science",
-          "value": 68,
+          "value": 127,
           "type": "faculty",
           "children": [
             {
               "name": "Software Engineering",
-              "value": 128,
+              "value": 82,
               "type": "faculty",
               "children": [
                 {
@@ -56,7 +56,7 @@
             },
             {
               "name": "SWE",
-              "value": 74,
+              "value": 35,
               "type": "faculty",
               "children": [
                 {
