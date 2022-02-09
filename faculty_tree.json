@@ -76,7 +76,7 @@
           ]
         },
         {
-            "name": "Computer Science",
+            "name": "Social Work",
             "value": 211,
             "type": "faculty",
             "children": [
@@ -121,7 +121,7 @@
             ]
           },
           {
-            "name": "Computer Science",
+            "name": "Arts",
             "value": 211,
             "type": "faculty",
             "children": [
