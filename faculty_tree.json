@@ -72,6 +72,92 @@
                   "value": 6
                 }
               ]
+            },
+              {
+          "name": "Computer Science",
+          "value": 211,
+          "type": "faculty",
+          "children": [
+            {
+              "name": "Software Engineering",
+              "value": 99,
+              "type": "faculty",
+              "children": [
+                {
+                  "name": "Steve Nash",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 69
+                },
+                {
+                  "name": "Some Person",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 13
+                }
+              ]
+            },
+            {
+              "name": "SWE",
+              "value": 44,
+              "type": "faculty",
+              "children": [
+                {
+                  "name": "Micheal Jacques",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 29
+                },
+                {
+                  "name": "Other Guy",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 6
+                }
+              ]
+            },
+              {
+          "name": "Computer Science",
+          "value": 211,
+          "type": "faculty",
+          "children": [
+            {
+              "name": "Software Engineering",
+              "value": 99,
+              "type": "faculty",
+              "children": [
+                {
+                  "name": "Steve Nash",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 69
+                },
+                {
+                  "name": "Some Person",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 13
+                }
+              ]
+            },
+            {
+              "name": "SWE",
+              "value": 44,
+              "type": "faculty",
+              "children": [
+                {
+                  "name": "Micheal Jacques",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 29
+                },
+                {
+                  "name": "Other Guy",
+                  "Link": "http://test.uncc.edu",
+                  "type": "publications",
+                  "value": 6
+                }
+              ]
             }
           ]
         }
