@@ -2,28 +2,26 @@
     "name": {
       "name": "UNCC",
       "value": 345,
-      "type": "faculty",
+      "type": "Faculty",
       "children": [
         {
           "name": "Belk College of Business",
           "value": 61,
-          "type": "faculty",
+          "type": "Faculty",
           "children": [
             {
               "name": "Business",
               "value": 53,
-              "type": "faculty",
+              "type": "Faculty",
               "children": [
                 {
                   "name": "Bojan Cukic",
-                  "Link": "http://test.uncc.edu",
-                  "type": "publications",
+                  "type": "Publications",
                   "value": 29
                 },
                 {
                   "name": "Test Name",
-                  "Link": "http://test.uncc.edu",
-                  "type": "publications",
+                  "type": "Publications",
                   "value": 12
                 }
               ]
@@ -33,23 +31,21 @@
         {
           "name": "Computer Science",
           "value": 211,
-          "type": "faculty",
+          "type": "Faculty",
           "children": [
             {
               "name": "Software Engineering",
               "value": 99,
-              "type": "faculty",
+              "type": "Faculty",
               "children": [
                 {
                   "name": "Steve Nash",
-                  "Link": "http://test.uncc.edu",
-                  "type": "publications",
+                  "type": "Publications",
                   "value": 69
                 },
                 {
                   "name": "Some Person",
-                  "Link": "http://test.uncc.edu",
-                  "type": "publications",
+                  "type": "Publications",
                   "value": 13
                 }
               ]
@@ -57,18 +53,16 @@
             {
               "name": "SWE",
               "value": 44,
-              "type": "faculty",
+              "type": "Faculty",
               "children": [
                 {
                   "name": "Micheal Jacques",
-                  "Link": "http://test.uncc.edu",
-                  "type": "publications",
+                  "type": "Publications",
                   "value": 29
                 },
                 {
                   "name": "Other Guy",
-                  "Link": "http://test.uncc.edu",
-                  "type": "publications",
+                  "type": "Publications",
                   "value": 6
                 }
               ]
@@ -78,23 +72,21 @@
         {
             "name": "Social Work",
             "value": 211,
-            "type": "faculty",
+            "type": "Faculty",
             "children": [
               {
                 "name": "Software Engineering",
                 "value": 99,
-                "type": "faculty",
+                "type": "Faculty",
                 "children": [
                   {
                     "name": "Steve Nash",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 69
                   },
                   {
                     "name": "Some Person",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 13
                   }
                 ]
@@ -102,18 +94,17 @@
               {
                 "name": "SWE",
                 "value": 44,
-                "type": "faculty",
+                "type": "Faculty",
                 "children": [
                   {
                     "name": "Micheal Jacques",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 29
                   },
                   {
                     "name": "Other Guy",
                     "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 6
                   }
                 ]
@@ -128,18 +119,16 @@
               {
                 "name": "Software Engineering",
                 "value": 99,
-                "type": "faculty",
+                "type": "Faculty",
                 "children": [
                   {
                     "name": "Steve Nash",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 69
                   },
                   {
                     "name": "Some Person",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 13
                   }
                 ]
@@ -151,14 +140,12 @@
                 "children": [
                   {
                     "name": "Micheal Jacques",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 29
                   },
                   {
                     "name": "Other Guy",
-                    "Link": "http://test.uncc.edu",
-                    "type": "publications",
+                    "type": "Publications",
                     "value": 6
                   }
                 ]
