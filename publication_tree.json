@@ -1,0 +1,156 @@
+{
+    "name": {
+      "name": "UNCC",
+      "value": 345,
+      "type": "Publications",
+      "children": [
+        {
+          "name": "Belk College of Business",
+          "value": 61,
+          "type": "Publications",
+          "children": [
+            {
+              "name": "Business",
+              "value": 53,
+              "type": "Publications",
+              "children": [
+                {
+                  "name": "Cukic",
+                  "type": "Publications",
+                  "value": 29
+                },
+                {
+                  "name": "Gucci",
+                  "type": "Publications",
+                  "value": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Computer Science",
+          "value": 211,
+          "type": "Publications",
+          "children": [
+            {
+              "name": "Software Engineering",
+              "value": 99,
+              "type": "Publications",
+              "children": [
+                {
+                  "name": "Road Trip",
+                  "type": "Publications",
+                  "value": 69
+                },
+                {
+                  "name": "Pizza",
+                  "type": "Publications",
+                  "value": 13
+                }
+              ]
+            },
+            {
+              "name": "SWE",
+              "value": 44,
+              "type": "Publications",
+              "children": [
+                {
+                  "name": "Gum",
+                  "type": "Publications",
+                  "value": 29
+                },
+                {
+                  "name": "Tomato",
+                  "type": "Publications",
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+            "name": "Social Work",
+            "value": 211,
+            "type": "Publications",
+            "children": [
+              {
+                "name": "Software Engineering",
+                "value": 99,
+                "type": "Publications",
+                "children": [
+                  {
+                    "name": "Linux",
+                    "type": "Publications",
+                    "value": 69
+                  },
+                  {
+                    "name": "Github",
+                    "type": "Publications",
+                    "value": 13
+                  }
+                ]
+              },
+              {
+                "name": "SWE",
+                "value": 44,
+                "type": "Publications",
+                "children": [
+                  {
+                    "name": "Continued Development",
+                    "type": "Publications",
+                    "value": 29
+                  },
+                  {
+                    "name": "Sprint",
+                    "type": "Publications",
+                    "value": 6
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Arts",
+            "value": 211,
+            "type": "Publications",
+            "children": [
+              {
+                "name": "Software Engineering",
+                "value": 99,
+                "type": "Publications",
+                "children": [
+                  {
+                    "name": "Color",
+                    "type": "Publications",
+                    "value": 69
+                  },
+                  {
+                    "name": "Paintings",
+                    "type": "Publications",
+                    "value": 13
+                  }
+                ]
+              },
+              {
+                "name": "SWE",
+                "value": 44,
+                "type": "Publications",
+                "children": [
+                  {
+                    "name": "Computer",
+                    "type": "Publications",
+                    "value": 29
+                  },
+                  {
+                    "name": "Phone",
+                    "type": "Publications",
+                    "value": 6
+                  }
+                ]
+              }
+            ]
+          }
+      ]
+    }
+  }
