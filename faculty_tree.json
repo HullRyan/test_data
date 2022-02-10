@@ -136,7 +136,7 @@
               {
                 "name": "SWE",
                 "value": 44,
-                "type": "faculty",
+                "type": "Faculty",
                 "children": [
                   {
                     "name": "Micheal Jacques",
